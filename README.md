@@ -5,20 +5,22 @@ I enjoy working with data, building intelligent systems, and developing applicat
 
 I have experience programming in **Python** and **C++**, and I also co-operate in building modern web applications using **Next.js**. My current focus is on exploring **AI models, data processing, and machine learning techniques** to solve real-world problems.
 
-Although I may not have extensive experience and still have much to learn, I am always eager to learn, open to feedback, and motivated to explore things I don't yet know.
-## 🧠 Interests
+## Mindset
+Although I may not have extensive experience and still have much to learn, I am always eager to learn, open to feedback, and not afraid of challenges while exploring things I don't yet know.
+
+## Interests
 - Artificial Intelligence
 - Machine Learning
 - Data Science
 - Data Analysis
 - Computer Vision
 
-## 💻 Tech Stack
+## Tech Stack
 - **Languages:** Python, C++
 - **Web:** Next.js, JavaScript
 - **AI / Data:** Machine Learning, Data Analysis, Data Processing
 
-## 🚀 Current Focus
+## Current Focus
 - Learning and building projects in **AI and Data Engineering**
 - Developing **data-driven applications**
 - Exploring **machine learning models and real-world datasets**
